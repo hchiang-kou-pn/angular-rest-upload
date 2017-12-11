@@ -1,4 +1,5 @@
-# AngularTest
+# Fileupload3 - Uploading files in Angular (2/4) to a REST api
+https://nehalist.io/uploading-files-in-angular2/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
 
